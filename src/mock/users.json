@@ -1,0 +1,37 @@
+
+[{
+  "id": 1,
+  "first_name": "Wildon",
+  "last_name": "Scarbarrow",
+  "email": "wscarbarrow0@sciencedaily.com",
+  "gender": "Male",
+  "ip_address": "97.48.22.56"
+}, {
+  "id": 2,
+  "first_name": "Kaila",
+  "last_name": "Sumsion",
+  "email": "ksumsion1@mediafire.com",
+  "gender": "Female",
+  "ip_address": "224.79.29.232"
+}, {
+  "id": 3,
+  "first_name": "Katha",
+  "last_name": "Yegorov",
+  "email": "kyegorov2@thetimes.co.uk",
+  "gender": "Female",
+  "ip_address": "148.84.109.109"
+}, {
+  "id": 4,
+  "first_name": "Farly",
+  "last_name": "Sitlinton",
+  "email": "fsitlinton3@yahoo.co.jp",
+  "gender": "Male",
+  "ip_address": "240.102.91.146"
+}, {
+  "id": 5,
+  "first_name": "Morie",
+  "last_name": "Pattini",
+  "email": "mpattini4@elegantthemes.com",
+  "gender": "Polygender",
+  "ip_address": "7.239.136.78"
+}]
